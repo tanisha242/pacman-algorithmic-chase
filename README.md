@@ -42,6 +42,12 @@ Each ghost exhibits distinct AI behavior using the following search algorithms:
 - Pellets: 500 randomly placed food items (score +1 each)
 
 ---
+
+## Screenshot
+
+![Gameplay](https://github.com/tanisha242/pacman-algorithmic-chase/blob/main/screenshots/game%20screenshot%201.png)
+           (https://github.com/tanisha242/pacman-algorithmic-chase/blob/main/screenshots/game%20screenshot%202.png)
+
 ## Requirements
 
 - C++ compiler (e.g. `g++`, `clang++`)
